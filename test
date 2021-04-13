@@ -1,0 +1,2 @@
+apt get-update
+CMD ["echo", "hello wordl"]
